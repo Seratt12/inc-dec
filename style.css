@@ -50,7 +50,7 @@ body {
     display: flex;
     justify-content: center;
     margin-top: 12.5vh;
-    background-image: url(./img/bg.jpg);
+    background-image: url(./bg.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
